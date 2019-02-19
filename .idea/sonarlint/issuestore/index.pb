@@ -19,3 +19,12 @@ J
 django_project/settings.py,b\7\b7d6a4a85b276c7d08e0831c9cb41e47114ee149
 =
 main/admin.py,c\8\c8a19dd4facc67ad6f16f44c62384cab8ed3b0ad
+:
+
+db.sqlite3,9\0\907ac5e500f6286c18519bf943721af4c97e50d5
+M
+main/templates/main/home.html,2\c\2c32f04e266199d94e209a9de3370a426892b68c
+T
+$main/static/main/css/materialize.css,4\8\486a47bfe0a59cbf7b2cd60b18a57700d67a8d31
+O
+main/templates/main/header.html,5\4\54ccc0497cad5078ebd194b2454923c614b4a87a
