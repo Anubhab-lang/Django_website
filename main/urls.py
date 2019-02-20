@@ -20,4 +20,5 @@ app_name = "main"
 
 urlpatterns = [
     path("", views.homepage, name="homepage"),  # pointing to the main view
+    path("register/", views.register, name="register")
 ]
