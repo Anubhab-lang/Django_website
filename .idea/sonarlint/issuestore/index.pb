@@ -28,3 +28,5 @@ T
 $main/static/main/css/materialize.css,4\8\486a47bfe0a59cbf7b2cd60b18a57700d67a8d31
 O
 main/templates/main/header.html,5\4\54ccc0497cad5078ebd194b2454923c614b4a87a
+Q
+!main/templates/main/register.html,4\0\4083eed814f2e6d6e8524e80cee66971f7a08754
