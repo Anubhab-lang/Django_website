@@ -30,3 +30,11 @@ O
 main/templates/main/header.html,5\4\54ccc0497cad5078ebd194b2454923c614b4a87a
 Q
 !main/templates/main/register.html,4\0\4083eed814f2e6d6e8524e80cee66971f7a08754
+X
+(main/templates/main/includes/navbar.html,0\4\041c777d84f0b2423a07989bcd27f5cc3342d38b
+Z
+*main/templates/main/includes/messages.html,a\d\adbc379026d0504bad5d0f9ce17ec15c53b32e65
+N
+main/templates/main/login.html,9\9\999ceeaacad837a7952e8ff1c7b294deb6d31c52
+=
+main/forms.py,c\8\c8b8c423e5a0738295dc14be6587bad46a9bebb8
