@@ -6,6 +6,7 @@ from django.contrib.auth import login, logout, authenticate
 from django.contrib import messages
 from .forms import NewUserForm
 
+
 def homepage(request):
     return render(request=request,
                   template_name="main/home.html",
@@ -31,10 +32,12 @@ def register(request):
                   "main/register.html",
                   context={"form": form})
 
+
 def logout_request(request):
     logout(request)
     messages.info(request, "Logged out successfully")
     return redirect("main:homepage")
+
 
 def login_request(request):
     if request.method == "POST":
