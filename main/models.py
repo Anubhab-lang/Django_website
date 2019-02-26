@@ -39,3 +39,10 @@ class Tutorial(models.Model):
 
     def __str__(self):
         return self.tutorial_title
+
+
+class ChestMl(models.Model):
+    picture = models.ImageField(upload_to = 'pictures')
+
+    class Meta:
+       db_table = "profile"

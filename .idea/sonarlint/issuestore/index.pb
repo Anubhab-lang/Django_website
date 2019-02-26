@@ -38,3 +38,7 @@ N
 main/templates/main/login.html,9\9\999ceeaacad837a7952e8ff1c7b294deb6d31c52
 =
 main/forms.py,c\8\c8b8c423e5a0738295dc14be6587bad46a9bebb8
+=
+main/tests.py,4\e\4e6d379fcea9c7d2d35be78a16f7d2e24bb3f94e
+P
+ main/templates/main/chestML.html,1\1\11c52d18dbacd65a3e833be3e50e51deee150a9f

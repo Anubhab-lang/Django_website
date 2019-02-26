@@ -18,4 +18,7 @@ class NewUserForm(UserCreationForm):
             return user
 
 
+class ProfileForm(forms.Form):
+   picture = forms.ImageField()
+
 
